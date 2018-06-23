@@ -1,0 +1,2 @@
+# coc-config
+Dotfiles
